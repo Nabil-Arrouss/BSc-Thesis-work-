@@ -33,7 +33,7 @@ This project explores a **data-driven**, AI–based approach to estimate partial
 - Data cleaning and normalization.
 
 ### 2. **Model Development**
-- Exploration of different machine learning models, with a focus on **neural network architectures**.
+- Planning and building the neural network architectures.
 - Training, validation, and hyperparameter tuning to optimize model performance.
 - Evaluation using benchmark datasets.
 
